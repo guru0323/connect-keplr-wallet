@@ -1,7 +1,7 @@
 # Keplr Example
 This is a simple example if how to Keplr extension injects the offline signer that is compatible with cosmJS. 
 
-![](splash.png)
+
 ## Local Development
 
 Install dependencies
